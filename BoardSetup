@@ -1,0 +1,6 @@
+
+BoardSize = 10,10
+TurtlePos = 6,5
+TurtleDir = North
+Exit = 2,4
+MineLocations = 7,7 4,2 2,3 1,1 6,6
